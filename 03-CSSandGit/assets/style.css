@@ -1,7 +1,7 @@
-/* ul li:last-child {
+ul li:last-child {
     color: green
 }
 
 ul li:first-child:hover {
     font-weight: bold;
-} */
+}

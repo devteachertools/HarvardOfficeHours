@@ -9,3 +9,4 @@ We will make a website that shows our fellow students how git works and what it 
 3. When I hover on an H1 with the class header, make it italic.
 4. When I hover on an H1 without a class, make it BOLD
 5. Add a CSS library that makes all the ULs with the class `code` to look like code.
+6. When the sceen is small, make it such that the class code takes up the entire height of the page and all spans dissapear.
