@@ -1,7 +1,28 @@
-ul li:last-child {
-    color: green
+.intro img {
+    width: 100px;
+    height: 100px;
 }
 
-ul li:first-child:hover {
-    font-weight: bold;
+ul {
+    border-right: 1px solid black;
+    list-style-type: none;
+}
+
+
+ul li {
+    border-right: 1px solid black;
+    padding-right: 10px;
+    display: inline;
+}
+
+ul li:last-child {
+    border: none;
+}
+
+ul li:nth-child(3) {
+    color: blue
+}
+
+ul li:first-child {
+    font-weight: 700;
 }
